@@ -1,4 +1,4 @@
 # 
 First_LandingPage
-HTML,CS,JS 
+HTML,CSS 
 https://artemputilov.github.io/Training_LandingPage/
